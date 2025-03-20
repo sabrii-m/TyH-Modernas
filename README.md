@@ -10,6 +10,10 @@ Cisterna Katerin Ludmila 13600 <br>
 <img src="https://github.com/user-attachments/assets/4ea102dd-fbd8-4b43-a47b-d3876e21507f" width="200"> <br>
 Cisterna Katerin Ludmila 13600 <br>
 <img src="https://github.com/user-attachments/assets/ab4aaace-2eea-48ff-9382-0ed315ec86d1" width="200"> <br>
+Juan Bernardo Costarelli Brandi 14112 <br>
 
+
+# Uso de procesadores de texto
+https://docs.google.com/document/d/19DTeWRCiiUhw1wqjBaj6gRV26c658EAZpnyxNr1vq_g/edit?usp=sharing
 
 
