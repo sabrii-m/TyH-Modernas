@@ -7,10 +7,9 @@ Ignacio Rivero 12530 <br>
 Facundo Ortega 13131 <br>
 <img src="https://github.com/user-attachments/assets/4ea102dd-fbd8-4b43-a47b-d3876e21507f" width="200"> <br>
 Cisterna Katerin Ludmila 13600 <br>
-<img src="https://github.com/user-attachments/assets/4ea102dd-fbd8-4b43-a47b-d3876e21507f" width="200"> <br>
-Cisterna Katerin Ludmila 13600 <br>
 <img src="https://github.com/user-attachments/assets/ab4aaace-2eea-48ff-9382-0ed315ec86d1" width="200"> <br>
 Juan Bernardo Costarelli Brandi 14112 <br>
+<img src="https://github.com/user-attachments/assets/97880e35-f78d-45f9-bac0-c70d47e96a73" width="200"> <br>
 
 
 # Uso de procesadores de texto
