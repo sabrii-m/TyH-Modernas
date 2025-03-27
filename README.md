@@ -1,5 +1,5 @@
 # TyH-Modernas
-# Grupo RM&CO
+# Grupo TEXpertos
 Sabrina Mataloni 13817 <br>
 <img src="https://github.com/user-attachments/assets/5a9e85f2-e273-47cb-8444-4681df6af8ef" width="200"> <br>
 Ignacio Rivero 12530 <br>
