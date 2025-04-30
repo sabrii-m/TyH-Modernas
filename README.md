@@ -17,3 +17,7 @@ https://docs.google.com/document/d/19DTeWRCiiUhw1wqjBaj6gRV26c658EAZpnyxNr1vq_g/
 
 # Uso del Overleaf
 [Clase 26-03 TyHModernas.zip](https://github.com/user-attachments/files/19674292/Clase.26-03.TyHModernas.zip)
+
+# Elementos de Programación
+[Uploading Elementos de Programación.rar…]()
+
